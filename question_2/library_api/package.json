@@ -1,0 +1,18 @@
+{
+  "name": "library_api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+  "start": "node app.js",
+  "dev": "nodemon app.js"
+},
+
+  "keywords": [],
+  "author": "Given Teboho Ikaneng",
+  "license": "ISC",
+  "description": "libraryapi",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
